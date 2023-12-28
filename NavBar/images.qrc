@@ -1,7 +1,4 @@
 <RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-    </qresource>
     <qresource prefix="/images">
         <file>images/backfront.jpg</file>
     </qresource>
