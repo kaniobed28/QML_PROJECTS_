@@ -68,4 +68,17 @@ Window {
             }
         }
     }
+
+    TextInput {
+        id: textInput
+        x: 330
+        y: 179
+        width: 150
+        height: 93
+        text: qsTr("Click on the button below to control the nav bar")
+        font.pixelSize: 18
+        horizontalAlignment: Text.AlignHCenter
+        wrapMode: Text.WordWrap
+        anchors.centerIn: parent
+    }
 }
