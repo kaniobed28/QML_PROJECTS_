@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/whatsapp.svg</file>
+        <file>imgs/wtsapp.png</file>
+    </qresource>
+</RCC>
